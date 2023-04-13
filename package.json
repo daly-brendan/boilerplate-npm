@@ -1,6 +1,7 @@
 {
-	"author" : "Brendan Daly",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author" : "Brendan Daly",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
